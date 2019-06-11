@@ -7,7 +7,7 @@
 ./data   : input/output data
 ```
 
-## How to Run
+## 執行方式
 
 ```
 make
