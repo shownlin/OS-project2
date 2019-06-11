@@ -1,10 +1,10 @@
 # OS Project 2 2019
 
 ```
-./master_device : the device moudule for master server
-./slave_device  : the device moudule for slave client
-./ksocket: the device moudule including the funtions used for kernel socket
-./data   : input/output data
+./master_device : master sever
+./slave_device  : slave client
+./socket: kernel socket
+./data   : i/o data
 ```
 
 ## 執行方式
